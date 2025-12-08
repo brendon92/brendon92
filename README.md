@@ -1,69 +1,71 @@
-### Hi there 👋
+# Hi there, I'm Brendon! 👋
 
-I'm a passionate developer specializing in **AI-Native Flutter Development** and full-stack technologies. I build mobile applications with Flutter, backend services with Node.js, and explore the intersection of AI and software development.
+### 👨‍💻 AI-Native Full Stack Developer
 
-- 🔭 I'm currently working on **AI Code Box** - an advanced mobile platform with AI integration for intelligent workspace management
-- 🌱 I'm currently learning **Advanced State Management with Riverpod**, **Clean Architecture**, and **Model Context Protocol (MCP)**
-- 👯 I'm looking to collaborate on open source projects involving **Flutter**, **Node.js**, **AI/ML**, or **IoT**
-- 💬 Ask me about **Flutter Development, AI Integration, Backend Services, and Mobile Apps**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/brendon92)
+I'm a passionate developer exploring the frontier where **Software Engineering meets Artificial Intelligence**. I build systems that are not just functional but intelligent—from mobile apps with local AI to autonomous agentic backends.
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <!-- Mobile -->
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  
-  <!-- Backend / Scripting -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-
-### 📈 GitHub Stats
-![Brendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendon92&show_icons=true&theme=radical)
-
-### 🚀 Featured Projects
-
-#### 📱 Flutter & Dart
-
-- **[AI Code Box](https://github.com/brendon92/ai_code_box)** - Advanced mobile platform with AI integration, enabling creation and management of intelligent workspaces. Features multi-agent chat, RAG, and clean architecture.
-  - `Flutter` `Dart` `Riverpod` `AI Integration` `Clean Architecture`
-
-- **[PDF Summarizer](https://github.com/brendon92/pdf_summarizer)** - Mobile application for automatic PDF document summarization using AI. Demonstrates file processing, AI API integration, and state management.
-  - `Flutter` `Dart` `AI` `PDF Processing`
-
-- **[Flutter Info Site](https://github.com/brendon92/flutter_info_site)** - Responsive informational website showcasing Flutter and Dart technologies. Demonstrates web development skills and Flutter ecosystem knowledge.
-  - `Flutter Web` `Dart` `Responsive Design`
-
-#### 🟢 Node.js & TypeScript
-
-- **[MCP Server](https://github.com/brendon92/mcp-server)** - Model Context Protocol Server with specialized search tools for AI agents. Advanced project demonstrating multi-API integration, schema validation (Zod), and modular architecture.
-  - `Node.js` `TypeScript` `MCP Protocol` `AI Tools`
-
-### 📊 Portfolio Structure
-
-My portfolio is organized by technology:
-- **Flutter** - Mobile and cross-platform applications
-- **Node.js** - Backend services and servers
-- **React.js** - Web applications (coming soon)
-- **Python** - Scripts and automation tools (coming soon)
-- **Bash** - DevOps and system automation (coming soon)
-
-### 🎯 Current Focus
-
-- **AI-Native Development** - Integrating AI capabilities into mobile and web applications
-- **Clean Architecture** - Building maintainable, scalable applications
-- **State Management** - Advanced patterns with Riverpod in Flutter
-- **Backend Services** - Building robust APIs and microservices
+My goal is to create **"AI-Native"** software: applications designed from the ground up to leverage LLMs, RAG, and Agentic workflows.
 
 ---
 
-⭐️ *Check out my repositories to see more of my work!*
+### 🎯 Current Focus & Interests
+
+- 🔭 **I'm currently working on**: [AI Code Box](https://github.com/brendon92/ai_code_box) - an advanced mobile platform with AI integration.
+- 🌱 **I'm currently learning**: Advanced State Management with Riverpod, Clean Architecture, and Model Context Protocol (MCP).
+- 👯 **I'm looking to collaborate on**: Open source projects involving Flutter, Node.js, AI/ML, or IoT.
+- 💬 **Ask me about**: Flutter Development, AI Integration, Backend Services, and Mobile Apps.
+
+---
+
+### 🚀 What I'm Working On
+
+I focus on **Flutter** for cross-platform mobile experiences and **Python/Node.js** for powerful backend logic.
+
+#### 🧠 **AI & Agents**
+- **[Forgery](https://github.com/brendon92/portfolio/tree/main/reactjs/forgery)**: An autonomous **Executive AI Agent** system built with **LangGraph** and **GraphRAG**. It's designed for complex, multi-step reasoning and self-improvement.
+- **[MCP Server](https://github.com/brendon92/mcp-server)**: A robust implementation of the **Model Context Protocol**, enabling AI agents to interact securely with local tools and data.
+
+#### 📱 **Mobile & Apps**
+- **[AI Code Box](https://github.com/brendon92/ai_code_box)**: A mobile platform for managing intelligent workspaces on the go.
+- **[ISurVive](https://github.com/brendon92/portfolio/tree/main/flutter/ISurVive)**: An offline-first survival guide and crisis management app powered by local AI.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Frameworks & Tools**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**AI Engineering**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+<a href="https://github.com/brendon92">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendon92&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendon92&layout=compact&theme=radical"/>
+</a>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to discussing new projects, AI research, or just geeking out over the latest tech.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/brendon92)
